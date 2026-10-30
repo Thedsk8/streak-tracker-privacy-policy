@@ -72,7 +72,7 @@ secure.
 ## Children's privacy
 
 Streak Tracker is intended for a general audience and is not directed to
-children under 3. Thedsk8 does not knowingly collect personal information from
+children under 13. Thedsk8 does not knowingly collect personal information from
 children or any other users through the app.
 
 ## Changes to this policy
